@@ -1,0 +1,173 @@
+{
+  "source": "《经典商业思维模型手册》",
+  "models": [
+    {
+      "name": "万一模型",
+      "tier": "底层认知",
+      "keywords": ["层级", "时代", "战略", "治理", "管理", "本质", "根本"],
+      "scenarios": ["判断问题本质", "分析失败原因", "制定战略"],
+      "file": "references/business-foundation.md"
+    },
+    {
+      "name": "商业洞察模型",
+      "tier": "底层认知",
+      "keywords": ["洞察", "本质", "因果", "系统", "存量", "回路", "滞后"],
+      "scenarios": ["分析复杂现象", "深度商业分析", "系统思考"],
+      "file": "references/business-foundation.md"
+    },
+    {
+      "name": "商业简史模型",
+      "tier": "底层认知",
+      "keywords": ["商业进化", "交易成本", "网络密度", "信息不对称", "信用不对称"],
+      "scenarios": ["理解行业趋势", "商业历史分析", "互联网本质"],
+      "file": "references/business-foundation.md"
+    },
+    {
+      "name": "商业模式三要素",
+      "tier": "商业模式",
+      "keywords": ["商业模式", "客户价值", "资源能力", "盈利方式", "价值主张"],
+      "scenarios": ["设计商业模式", "评估创业机会", "商业模式分析"],
+      "file": "references/business-model-design.md"
+    },
+    {
+      "name": "企业价值模型",
+      "tier": "商业模式",
+      "keywords": ["创造价值", "传递价值", "效率", "互联网优势", "交易成本"],
+      "scenarios": ["价值链分析", "互联网商业", "效率竞争"],
+      "file": "references/business-model-design.md"
+    },
+    {
+      "name": "价值空间模型",
+      "tier": "商业模式",
+      "keywords": ["利润", "成本", "劳动者", "中奖者", "套利者", "取势者", "社会均衡利润", "真利润"],
+      "scenarios": ["盈利质量分析", "竞争壁垒评估", "利润可持续性"],
+      "file": "references/business-model-design.md"
+    },
+    {
+      "name": "十大战略模型",
+      "tier": "战略选择",
+      "keywords": ["战略", "学派", "设计", "计划", "定位", "企业家", "认知", "学习", "权力", "文化", "环境", "结构"],
+      "scenarios": ["选择战略方法论", "战略分析", "企业战略规划"],
+      "file": "references/strategy-innovation.md"
+    },
+    {
+      "name": "选择战略的战略",
+      "tier": "战略选择",
+      "keywords": ["求快", "做大", "抢先", "协调", "求存", "不可预测性", "可塑性", "环境严苛性"],
+      "scenarios": ["确定战略姿态", "战略选择", "竞争策略"],
+      "file": "references/strategy-innovation.md"
+    },
+    {
+      "name": "商业进化模型",
+      "tier": "战略选择",
+      "keywords": ["商业进化", "创造价值", "传递价值", "C2B", "B2B", "虚拟经济", "金融", "耐心"],
+      "scenarios": ["长期商业规划", "理解商业发展", "商业模式演变"],
+      "file": "references/strategy-innovation.md"
+    },
+    {
+      "name": "创新利润模型",
+      "tier": "创新与增长",
+      "keywords": ["创新", "效率创新", "模式创新", "产品创新", "系统创新", "颠覆式创新", "套利"],
+      "scenarios": ["寻找创新方向", "AI创新分析", "利润来源分析"],
+      "file": "references/strategy-innovation.md"
+    },
+    {
+      "name": "技术采用生命周期",
+      "tier": "创新与增长",
+      "keywords": ["技术", "创新者", "早期采用者", "早期大众", "晚期大众", "落伍者", "泡沫", "红利", "炒作周期"],
+      "scenarios": ["判断AI技术阶段", "技术投资决策", "产品市场时机"],
+      "file": "references/strategy-innovation.md"
+    },
+    {
+      "name": "产品生命周期",
+      "tier": "创新与增长",
+      "keywords": ["产品生命周期", "投入期", "成长期", "成熟期", "衰退期", "护城河", "专利", "规模效应", "网络效应"],
+      "scenarios": ["产品阶段策略", "护城河建设", "产品规划"],
+      "file": "references/strategy-innovation.md"
+    },
+    {
+      "name": "用户需求模型",
+      "tier": "产品与用户",
+      "keywords": ["用户需求", "欲望", "任务理论", "创造性张力", "刚需", "品牌"],
+      "scenarios": ["产品需求分析", "用户洞察", "品牌建设"],
+      "file": "references/product-marketing.md"
+    },
+    {
+      "name": "企业能量模型",
+      "tier": "产品与用户",
+      "keywords": ["势能", "动能", "产品", "营销", "渠道", "推巨石上山"],
+      "scenarios": ["资源配置", "产品营销渠道平衡", "增长策略"],
+      "file": "references/product-marketing.md"
+    },
+    {
+      "name": "新零售模型",
+      "tier": "营销与渠道",
+      "keywords": ["新零售", "信息流", "资金流", "物流", "流量", "转化率", "客单价", "复购率", "口碑经济", "社群经济"],
+      "scenarios": ["零售分析", "电商效率", "线上线下融合"],
+      "file": "references/product-marketing.md"
+    },
+    {
+      "name": "购买路径模型",
+      "tier": "营销与渠道",
+      "keywords": ["购买路径", "搜索", "内容", "社交", "零售", "电商", "直播", "需求", "触点", "信任"],
+      "scenarios": ["用户获取策略", "营销路径设计", "渠道选择"],
+      "file": "references/product-marketing.md"
+    },
+    {
+      "name": "私域模型",
+      "tier": "营销与渠道",
+      "keywords": ["私域", "公域", "流量红利", "流量成本", "边际成本", "全域"],
+      "scenarios": ["私域运营策略", "流量成本分析", "用户留存"],
+      "file": "references/product-marketing.md"
+    },
+    {
+      "name": "管理的七种兵器",
+      "tier": "管理与组织",
+      "keywords": ["管理", "职业天梯", "年度考核", "全面激励", "技能字典", "职位设计", "招聘流程", "权力管理"],
+      "scenarios": ["搭建管理体系", "管理框架设计", "组织建设"],
+      "file": "references/management-organization.md"
+    },
+    {
+      "name": "薪酬制度的五个抓手",
+      "tier": "管理与组织",
+      "keywords": ["薪酬", "年薪", "工资", "奖金", "年终奖", "考核", "S岗", "T岗", "O岗"],
+      "scenarios": ["设计激励机制", "薪酬结构优化", "人才激励"],
+      "file": "references/management-organization.md"
+    },
+    {
+      "name": "企业生命周期模型",
+      "tier": "管理与组织",
+      "keywords": ["企业生命周期", "创业期", "成熟期", "转型期", "战略", "管理", "忘记借用学习"],
+      "scenarios": ["企业阶段管理", "转型策略", "管理升级"],
+      "file": "references/management-organization.md"
+    },
+    {
+      "name": "三个共同体",
+      "tier": "管理与组织",
+      "keywords": ["利益共同体", "事业共同体", "命运共同体", "员工关系", "股权", "激励", "绑定"],
+      "scenarios": ["团队激励", "合伙人制度", "员工绑定"],
+      "file": "references/management-organization.md"
+    },
+    {
+      "name": "经济周期模型",
+      "tier": "宏观经济与个人",
+      "keywords": ["经济周期", "下行", "债务", "收入", "生产率", "宏观"],
+      "scenarios": ["宏观环境判断", "经济下行应对", "投资决策"],
+      "file": "references/macro-personal.md"
+    },
+    {
+      "name": "人生商业模式",
+      "tier": "宏观经济与个人",
+      "keywords": ["人生商业模式", "能力", "效率", "杠杆", "个人成长", "职业规划", "Naval"],
+      "scenarios": ["个人成长规划", "职业选择", "能力建设"],
+      "file": "references/macro-personal.md"
+    },
+    {
+      "name": "高效能人士的七个习惯",
+      "tier": "宏观经济与个人",
+      "keywords": ["七个习惯", "积极主动", "以终为始", "要事第一", "双赢思维", "知彼解己", "统合综效", "不断更新", "依赖期", "独立期", "互赖期"],
+      "scenarios": ["个人效能提升", "习惯养成", "自我管理"],
+      "file": "references/macro-personal.md"
+    }
+  ]
+}
