@@ -10,6 +10,7 @@ Personal skill collection for [Claude Code](https://claude.ai/code).
 | **thinking-tools** | 现代思维工具顾问，基于《现代思维工具词典》148 个思维工具 | `skills/thinking-tools/` |
 | **decision-basics** | 决策基本 Skill，基于《决策的54个基本》54 个决策法则 | `skills/decision-basics/` |
 | **business-models** | 商业思维模型顾问，基于刘润《经典商业思维模型手册》25 个模型 | `skills/business-models/` |
+| **latex-examples** | LaTeX 高质量表格与展示风格参考库，从顶会论文中提炼生成模板 | `skills/latex-examples/` |
 
 ## Third-Party Skills (References)
 
