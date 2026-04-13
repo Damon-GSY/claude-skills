@@ -16,7 +16,18 @@ Personal skill collection for [Claude Code](https://claude.ai/code).
 
 These skills are installed from external sources via symlinks:
 
-### [Minimax Skills](https://github.com/minimax-skills)
+### [obra/superpowers](https://github.com/obra/superpowers)
+Agentic skills framework & software development methodology (14 skills):
+- `brainstorming` - Creative exploration before implementation
+- `writing-skills` / `writing-plans` - Skill & plan authoring with TDD
+- `using-superpowers` / `using-git-worktrees` - Workflow skills
+- `finishing-a-development-branch` / `requesting-code-review` - Dev process
+- `subagent-driven-development` - Parallel task execution
+- `cross-platform` / `shell-scripting` - Platform & scripting patterns
+- `long-running-init` / `long-running-session` - Multi-session projects
+- `find-skills` - Skill discovery
+
+### [Minimax Skills](https://github.com/nicekid1/minimax-skills)
 - `shader-dev` - GLSL shader techniques
 - `pptx-generator` - PowerPoint generation
 - `minimax-pdf` - PDF generation
@@ -26,19 +37,16 @@ These skills are installed from external sources via symlinks:
 - `frontend-dev` - Frontend development
 - `android-native-dev` - Android dev guide
 
-### [cc-switch Skills](https://github.com/nicekid1/cc-switch)
-- `obsidian-cli` / `obsidian-markdown` - Obsidian integration
-- `writing-skills` / `writing-plans` - Skill & plan authoring
-- `brainstorming` - Creative exploration
-- `using-superpowers` / `using-git-worktrees` - Workflow skills
-- `finishing-a-development-branch` / `requesting-code-review` - Dev process
-- `subagent-driven-development` - Parallel task execution
-- `frontend-design` / `ui-ux-pro-max` - UI/UX design
+### [anthropics/skills](https://github.com/anthropics/skills)
+- `frontend-design` - Production-grade frontend design
 
-### [Agents Skills](https://github.com/anthropics/agents)
-- `cross-platform` / `shell-scripting` - Platform & scripting
-- `long-running-init` / `long-running-session` - Multi-session projects
-- `find-skills` - Skill discovery
+### Other Third-Party Skills
+| Skill | Repo | Description |
+|-------|------|-------------|
+| `obsidian-cli` / `obsidian-markdown` | [cwaits6/obsidian-cli-skill](https://github.com/cwaits6/obsidian-cli-skill) | Obsidian vault CLI integration |
+| `ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX design intelligence |
+| `agent-browser` | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI |
+| `obsidian-skills` | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Obsidian-specific skills collection |
 
 ## Installation
 
