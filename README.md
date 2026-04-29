@@ -11,6 +11,7 @@ Personal skill collection for [Claude Code](https://claude.ai/code).
 | **decision-basics** | 决策基本 Skill，基于《决策的54个基本》54 个决策法则 | `skills/decision-basics/` |
 | **business-models** | 商业思维模型顾问，基于刘润《经典商业思维模型手册》25 个模型 | `skills/business-models/` |
 | **latex-examples** | LaTeX 高质量表格与展示风格参考库，从顶会论文中提炼生成模板 | `skills/latex-examples/` |
+| **agency** | 按需加载 [The Agency](https://github.com/msitarzewski/agency-agents) 的 184 个专业 AI agent，根据上下文智能匹配并写入 `~/.claude/agents/` | `skills/agency/` |
 
 ## Third-Party Skills (References)
 
