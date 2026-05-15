@@ -1,0 +1,218 @@
+[
+  {
+    "id": "desire-management",
+    "name": "欲望管理",
+    "layer": "财富认知",
+    "core_question": "这个"想买"是需求还是欲望？",
+    "scenario": "区分必要消费与冲动消费",
+    "keywords": ["消费", "冲动", "想买", "剁手", "购物", "欲望", "需求", "理性消费"],
+    "file": "references/cognition.md"
+  },
+  {
+    "id": "scarcity-mindset",
+    "name": "稀缺心态",
+    "layer": "财富认知",
+    "core_question": "你是在"缺钱心态"还是"富足心态"下做决策？",
+    "scenario": "识别稀缺心态对财务决策的扭曲",
+    "keywords": ["稀缺", "焦虑", "缺钱", "心态", "穷人思维", "管窥效应"],
+    "file": "references/cognition.md"
+  },
+  {
+    "id": "consumer-psychology",
+    "name": "消费心理学",
+    "layer": "财富认知",
+    "core_question": "你在为"拥有"付费还是为"感觉"付费？",
+    "scenario": "理解消费背后的心理驱动",
+    "keywords": ["消费心理", "情绪消费", "虚荣", "攀比", "面子", "品牌", "价格锚定"],
+    "file": "references/cognition.md"
+  },
+  {
+    "id": "value-perception",
+    "name": "价值认知",
+    "layer": "财富认知",
+    "core_question": "一件东西的"价格"和"价值"一样吗？",
+    "scenario": "建立对金钱和价值的正确认知",
+    "keywords": ["价格", "价值", "性价比", "值得", "金钱观", "价值观", "资产", "负债"],
+    "file": "references/cognition.md"
+  },
+  {
+    "id": "bookkeeping",
+    "name": "记账习惯",
+    "layer": "储蓄与预算",
+    "core_question": "钱都花到哪了？",
+    "scenario": "建立收支意识和消费透明度",
+    "keywords": ["记账", "花销", "支出", "账单", "流水", "月度开支"],
+    "file": "references/savings-budget.md"
+  },
+  {
+    "id": "budget-management",
+    "name": "预算管理",
+    "layer": "储蓄与预算",
+    "core_question": "收入如何合理分配？",
+    "scenario": "制定月度/年度预算计划",
+    "keywords": ["预算", "分配", "月预算", "开支计划", "财务计划"],
+    "file": "references/savings-budget.md"
+  },
+  {
+    "id": "delayed-gratification",
+    "name": "延迟满足",
+    "layer": "储蓄与预算",
+    "core_question": "现在的快乐 vs 未来的安全，怎么选？",
+    "scenario": "克服即时满足冲动",
+    "keywords": ["延迟满足", "自律", "攒钱", "忍耐", "棉花糖实验", "自律"],
+    "file": "references/savings-budget.md"
+  },
+  {
+    "id": "50-30-20-rule",
+    "name": "50/30/20法则",
+    "layer": "储蓄与预算",
+    "core_question": "必需/想要/储蓄，占比合理吗？",
+    "scenario": "快速建立预算框架",
+    "keywords": ["50/30/20", "比例", "分配", "必需品", "可选消费", "储蓄率"],
+    "file": "references/savings-budget.md"
+  },
+  {
+    "id": "compound-interest",
+    "name": "复利思维",
+    "layer": "投资理财",
+    "core_question": "时间如何放大财富？",
+    "scenario": "理解长期投资的力量",
+    "keywords": ["复利", "利息", "长期", "时间", "72法则", "滚雪球"],
+    "file": "references/investing.md"
+  },
+  {
+    "id": "asset-allocation",
+    "name": "资产配置",
+    "layer": "投资理财",
+    "core_question": "不要把鸡蛋放在一个篮子里？",
+    "scenario": "分散风险、平衡收益",
+    "keywords": ["资产配置", "分散", "风险", "股票", "债券", "组合", "鸡蛋篮子"],
+    "file": "references/investing.md"
+  },
+  {
+    "id": "risk-assessment",
+    "name": "风险评估",
+    "layer": "投资理财",
+    "core_question": "你能承受多大损失？",
+    "scenario": "匹配投资品种与风险承受力",
+    "keywords": ["风险", "承受", "损失", "波动", "保守", "激进", "稳健"],
+    "file": "references/investing.md"
+  },
+  {
+    "id": "index-fund",
+    "name": "指数基金入门",
+    "layer": "投资理财",
+    "core_question": "为什么普通人应该先考虑指数基金？",
+    "scenario": "低门槛、低风险起步投资",
+    "keywords": ["指数基金", "ETF", "定投", "沪深300", "标普500", "巴菲特", "被动投资"],
+    "file": "references/investing.md"
+  },
+  {
+    "id": "financial-goals",
+    "name": "财务目标设定",
+    "layer": "财务规划",
+    "core_question": "你的财务目标具体吗？SMART吗？",
+    "scenario": "制定可量化、有时限的财务目标",
+    "keywords": ["目标", "规划", "SMART", "短期", "中期", "长期", "存款目标"],
+    "file": "references/financial-planning.md"
+  },
+  {
+    "id": "cashflow-management",
+    "name": "现金流管理",
+    "layer": "财务规划",
+    "core_question": "每月流入多少、流出多少、净流多少？",
+    "scenario": "掌握资金的流动方向",
+    "keywords": ["现金流", "流入", "流出", "净收入", "正现金流", "负现金流"],
+    "file": "references/financial-planning.md"
+  },
+  {
+    "id": "emergency-fund",
+    "name": "应急基金",
+    "layer": "财务规划",
+    "core_question": "如果突然失业/生病，能撑几个月？",
+    "scenario": "建立安全垫，应对突发状况",
+    "keywords": ["应急", "安全垫", "失业", "突发", "6个月", "储备金"],
+    "file": "references/financial-planning.md"
+  },
+  {
+    "id": "financial-freedom",
+    "name": "财务自由路径",
+    "layer": "财务规划",
+    "core_question": "被动收入能覆盖支出吗？",
+    "scenario": "规划从依赖工资到财务自由的路径",
+    "keywords": ["财务自由", "被动收入", "FIRE", "提前退休", "独立", "不工作"],
+    "file": "references/financial-planning.md"
+  },
+  {
+    "id": "insurance-awareness",
+    "name": "保险意识",
+    "layer": "保险与保障",
+    "core_question": "什么风险是你可以承受的，什么不是？",
+    "scenario": "识别需要转移的风险",
+    "keywords": ["保险", "风险转移", "保障", "理赔", "保费"],
+    "file": "references/insurance.md"
+  },
+  {
+    "id": "insurance-selection",
+    "name": "险种选择",
+    "layer": "保险与保障",
+    "core_question": "重疾/意外/寿险/医疗，优先级是什么？",
+    "scenario": "合理配置保险方案",
+    "keywords": ["重疾险", "意外险", "寿险", "医疗险", "保险方案", "配置"],
+    "file": "references/insurance.md"
+  },
+  {
+    "id": "good-bad-debt",
+    "name": "好债与坏债",
+    "layer": "债务管理",
+    "core_question": "这笔债是在帮你赚钱还是在消耗你？",
+    "scenario": "区分生产性债务和消费性债务",
+    "keywords": ["债务", "贷款", "房贷", "信用卡", "花呗", "借呗", "杠杆", "负债"],
+    "file": "references/debt-management.md"
+  },
+  {
+    "id": "credit-management",
+    "name": "信用管理",
+    "layer": "债务管理",
+    "core_question": "信用分和信用记录为什么重要？",
+    "scenario": "建立和维护良好信用",
+    "keywords": ["信用", "征信", "信用分", "信用记录", "信用卡", "逾期"],
+    "file": "references/debt-management.md"
+  },
+  {
+    "id": "tax-basics",
+    "name": "税收基础",
+    "layer": "税务意识",
+    "core_question": "你的收入要交多少税？",
+    "scenario": "了解基本税制和税负",
+    "keywords": ["税", "个税", "所得税", "税率", "起征点", "专项扣除"],
+    "file": "references/tax.md"
+  },
+  {
+    "id": "tax-optimization",
+    "name": "合规节税",
+    "layer": "税务意识",
+    "core_question": "如何在合法范围内减少税负？",
+    "scenario": "利用税收优惠政策",
+    "keywords": ["节税", "抵扣", "专项附加扣除", "公积金", "税收优惠", "个税筹划"],
+    "file": "references/tax.md"
+  },
+  {
+    "id": "passive-income",
+    "name": "被动收入构建",
+    "layer": "高级财商",
+    "core_question": "除了工资，还有什么进账？",
+    "scenario": "打造多元收入来源",
+    "keywords": ["被动收入", "副业", "租金", "版税", "股息", "多元收入"],
+    "file": "references/advanced.md"
+  },
+  {
+    "id": "wealth-preservation",
+    "name": "财富传承",
+    "layer": "高级财商",
+    "core_question": "财富如何保值和传承？",
+    "scenario": "长期视角的资产保全",
+    "keywords": ["传承", "保值", "通胀", "资产保全", "遗产", "信托", "长期"],
+    "file": "references/advanced.md"
+  }
+]

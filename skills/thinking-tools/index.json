@@ -1,0 +1,785 @@
+{
+  "worldviews": {
+    "file": "references/core-worldviews.md",
+    "count": 6
+  },
+  "categories": {
+    "cognitive-bias": {
+      "file": "references/cognitive-bias.md",
+      "name": "认知偏差",
+      "count": 10
+    },
+    "probability-decision": {
+      "file": "references/probability-decision.md",
+      "name": "概率与决策",
+      "count": 15
+    },
+    "systems-thinking": {
+      "file": "references/systems-thinking.md",
+      "name": "系统思维",
+      "count": 47
+    },
+    "strategy-management": {
+      "file": "references/strategy-management.md",
+      "name": "战略与管理",
+      "count": 22
+    },
+    "innovation-creativity": {
+      "file": "references/innovation-creativity.md",
+      "name": "创新与创造力",
+      "count": 12
+    },
+    "complex-networks": {
+      "file": "references/complex-networks.md",
+      "name": "复杂网络与信息论",
+      "count": 11
+    },
+    "engineering-methods": {
+      "file": "references/engineering-methods.md",
+      "name": "工程与科学方法",
+      "count": 31
+    }
+  },
+  "all_tools": [
+    {
+      "name": "固定性思维模式",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "固着性",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "观察者偏差",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "归因理论",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "过滤气泡",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "过度自信偏差",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "后见之明偏差",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "互惠法则",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "归纳推理",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "回避型决策",
+      "category": "cognitive-bias",
+      "file": "references/cognitive-bias.md"
+    },
+    {
+      "name": "信息熵",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "香农熵",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "最大熵原理",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "信号与噪声",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "数据压缩",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "信道容量",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "贝叶斯推断",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "先验概率",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "后验概率",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "似然",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "贝叶斯更新",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "回归均值",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "信息论",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "拐点",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "黑天鹅事件",
+      "category": "probability-decision",
+      "file": "references/probability-decision.md"
+    },
+    {
+      "name": "系统思考",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "反馈回路",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "增强回路",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "调节回路",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "延迟效应",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "杠杆点",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "存量与流量",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "存量是系统中随时间累积的资源或状态",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "涌现",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "因果回路图",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "系统动力学",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "存量",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "流量",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "系统边界",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "系统之基",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "自组织",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "韧性",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "复杂适应系统",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "混沌理论",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "混沌边缘",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "奇异吸引子",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "分形",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "自相似性",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "幂律分布",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "临界点",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "相变",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "多稳态",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "路径依赖",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "锁定效应",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "网络效应",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "网络中心度",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "鲁棒性",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "冗余",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "负反馈",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "正反馈",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "自调节",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "自校正",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "适应度景观",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "涌现论",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "回路",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "适应性",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "蝴蝶效应",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "变异与选择",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "自然选择",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "局部最优",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "全局最优",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "关系思维",
+      "category": "systems-thinking",
+      "file": "references/systems-thinking.md"
+    },
+    {
+      "name": "关键循环",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "冰山模型",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "成长上限",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "转移负担",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "舍本逐末",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "竞争升级",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "悲剧性底线",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "成功螺旋",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "目标侵蚀",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "长尾理论",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "供给侧心态",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "关键路径法",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "关键少数",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "管理方格理论",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "滚动计划法",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "国际象棋策略",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "过程管理",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "赫兹伯格双因素理论",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "核心竞争力分析",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "环境扫描",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "黄金圈法则",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "灰度思维",
+      "category": "strategy-management",
+      "file": "references/strategy-management.md"
+    },
+    {
+      "name": "第一性原理",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "探索与利用",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "构造性思维",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "黑客思维",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "合情推理",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "横向思维",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "华莱士模型",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "换位思考",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "幻想思维",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "范式",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "范式转换",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "侯世达定律",
+      "category": "innovation-creativity",
+      "file": "references/innovation-creativity.md"
+    },
+    {
+      "name": "复杂性",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "规模法则",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "复杂性科学",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "复杂网络",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "小世界网络",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "无标度网络",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "六度分隔",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "枢纽节点",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "弱关系",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "结构洞",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "负熵",
+      "category": "complex-networks",
+      "file": "references/complex-networks.md"
+    },
+    {
+      "name": "一小时的不同",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "辅助变量",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "博弈规则",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "非线性动力学",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "模块化",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "控制论",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "伺服机制",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "目标寻求",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "试错",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "奥卡姆剃刀",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "还原论",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "勾股定理",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "勾股数",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "满足勾股定理的正整数三元组",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "故障树分析",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "观察法",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "规范分析",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "规则意识",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "海恩法则",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "航天工程",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "红蓝对抗",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "事后分析",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "宏观分析",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "化学工程思维",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "还原思维",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "回溯法",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "回归分析",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "丰田生产方式",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "能耐寻求定理",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "关联图",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    },
+    {
+      "name": "关系映射",
+      "category": "engineering-methods",
+      "file": "references/engineering-methods.md"
+    }
+  ]
+}

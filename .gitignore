@@ -1,0 +1,28 @@
+# Temp files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# OpenClaw runtime
+.openclaw/
+.clawhub/
+
+# Session data (transient)
+sessions/
